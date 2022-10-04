@@ -1,1 +1,1 @@
-# hugo-blog
+# github-blog
