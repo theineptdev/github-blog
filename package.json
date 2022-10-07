@@ -1,3 +1,5 @@
 {
-    "commitblog": "hugo -t anubis && cd public && git stats && git add . && git commit -m 'blog update' && git push origin to main"
+    "scripts": {
+        "commitblog": "hugo -t anubis && cd public && git status && git add . && git commit -m 'blog update' && git push origin to main"
+    }
 }
