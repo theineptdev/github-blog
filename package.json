@@ -1,0 +1,3 @@
+{
+    "commitblog": "hugo -t anubis && cd public && git stats && git add . && git commit -m 'blog update' && git push origin to main"
+}
