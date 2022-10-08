@@ -58,7 +58,7 @@ params:
   utterancesLabel: "" # optional
   # isso support
   isso:
-    enabled: true # mandatory
+    enabled: false # mandatory
     data: "https://comments.example.com/" # mandatory
     jsLocation: "https://comments.example.com/js/embed.min.js" # mandatory
     css: true # optional
