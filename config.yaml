@@ -1,5 +1,5 @@
 languageCode: "en-us"
-baseUrl: "https://blog.theinept.dev/"
+baseUrl: "https://theinept.blog/"
 title: "the inept blog"
 theme: "anubis"
 paginate: 10
