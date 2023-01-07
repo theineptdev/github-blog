@@ -1,6 +1,6 @@
 languageCode: "en-us"
-baseUrl: "https://theinept.blog/"
-title: "the inept blog"
+baseUrl: "https://gunnerclark.blog/"
+title: "gunner clark"
 theme: "anubis"
 paginate: 10
 disqusShortname: ""
@@ -77,8 +77,8 @@ params:
     pingback: true
   social:
   - id: github
-    name: theineptdev
-    url: "https://github.com/theineptdev/"
+    name: gunnerclark
+    url: "https://github.com/gunnerclark/"
 #  - id: hugo
 #    url: "https://gohugo.io/"
 #    icon: "hugo"
