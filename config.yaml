@@ -9,11 +9,11 @@ enableRobotsTXT: true
 
 menu:
   main:
-  # - identifier: home
-  #   name: home
-  #   title: home
-  #   url: /
-  #   weight: 1
+  - identifier: home
+    name: home
+    title: home
+    url: /
+    weight: 1
   - identifier: posts
     name: posts
     title: posts
