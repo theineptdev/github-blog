@@ -35,7 +35,7 @@ params:
   author: "Gunner Clark"
   email: contact@gunnerclark.dev # used for microformats
   avatar: "/images/me.png" # used for microformats
-  description: ""
+  description: "My name is Gunner Clark. I'm a software engineer with a passion for health and fitness. This blog is intended to be a place for me to share anything that I feel is worth putting out into the world. I'm sure I'll also use it to ramble about my latest hyperfixation."
   # Uncomment if you need this
   images:
     - images/og-featured.png # relative path to "static" directory
